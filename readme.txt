@@ -35,7 +35,7 @@ SubIt/
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/SubIt.git
+git clone https://github.com/harsh-space/SubIt.git
 cd SubIt
 
 2. Create and Activate a Virtual Environment (Recommended)
